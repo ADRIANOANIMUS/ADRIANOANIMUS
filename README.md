@@ -1,7 +1,7 @@
-## Olá Bem vindo, sou o Adriano 👋
+## 👋 Olá Bem vindo ao meu GitHub 👋
 
-- 🔭 Atualmente trabalhando com suporte técnico
-- 🌱 Estudando atualmente JavaScript, ReactJs e nodeJs
+- 🔭 Atualmente trabalhando como técnico de suporte
+- 🌱 Desenvolvendo aplicaões back end e front end com JavaScript,ReactJs,nodeJs, tambem utilizando os bancos de dados MongoDB e firebase.
 - 📫 Contate-me pelo email: adrianoanimus@gmail.com
 
  <div>
