@@ -1,7 +1,7 @@
 ## 👋 Olá Bem vindo ao meu GitHub 👋
 
 - 🔭 Atualmente trabalhando como técnico de suporte
-- 🌱 Desenvolvendo aplicaões back end e front end com JavaScript,ReactJs,nodeJs, tambem utilizando os bancos de dados MongoDB e firebase.
+- 🌱 Desenvolvendo aplicações back-end e front-end com JavaScript, ReactJs, nodeJs, utilizando os bancos de dados MongoDB e firebase.
 - 📫 Contate-me pelo email: adrianoanimus@gmail.com
 
  <div>
