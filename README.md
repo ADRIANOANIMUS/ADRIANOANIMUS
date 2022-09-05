@@ -3,7 +3,7 @@
 ### 👋 Hello Welcome!!! 👋
 
 - 🔭 Currently working as a support technician
-- 🌱 Developing back-end and front-end applications with ReactJs, nodeJs, using MongoDB and firebase databases.
+- 🌱 Developing back-end and front-end applications with ReactJs, nodeJs and TypeScript using MongoDB,PostgreSQL and firebase databases.
 - 📫 Contact me by email: adrianoanimus@gmail.com
  <div>
   <a href="https://github.com/ADRIANOANIMUS">
